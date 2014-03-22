@@ -1,0 +1,22 @@
+{
+  "name": "gaffa-navigate",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "version": "1.0.0",
+  "main": "navigate.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gaffa-navigate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-navigate/issues"
+  },
+  "keywords": [
+    "gaffa",
+    "navigate",
+    "action"
+  ],
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "license": "MIT"
+}
